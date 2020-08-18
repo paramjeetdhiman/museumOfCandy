@@ -1,0 +1,30 @@
+body {
+  background: #f5d9df;
+  font-family: 'Nunito', sans-serif;
+}
+
+#mainNavbar {
+  font: 1.5rem;
+  font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+  color: #fff;
+}
+#mainNavbar .nav-link:hover {
+  color: #01422f;
+}
+#mainNavbar .navbar-brand {
+  color: #1ceac8;
+}
+
+/**
+        py:  top and bottom
+        px: left and right
+
+
+*/
+
+#headingGroup h2 span {
+  color: #f59;
+}
